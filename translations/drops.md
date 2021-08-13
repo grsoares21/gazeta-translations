@@ -3,6 +3,7 @@ title: "Teste de tradução no Gazeta"
 img: "https://www.hypeness.com.br/1/2019/09/Vira-lata_Caramelo_3.jpg"
 date: "2021-08-09"
 author: "Gabriel R. Soares"
+authorLink: "https://twitter.com/_grsoares"
 tags:
   - "Doguinho"
 ---
