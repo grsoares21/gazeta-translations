@@ -7,8 +7,6 @@ tags:
   - "Doguinho"
 ---
 
-# Titulo
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum arcu vel sapien feugiat posuere. Etiam at suscipit enim, at vulputate enim. Proin vitae sapien eu sapien cursus blandit. In fringilla non libero vitae rhoncus. Etiam consectetur, dui nec luctus gravida, est mauris dapibus lectus, posuere imperdiet magna lacus eu neque. Curabitur sit amet ipsum enim. Curabitur sit amet ex urna. In diam nibh, semper id pulvinar at, gravida eu justo. Sed lectus magna, luctus vehicula fringilla ut, ullamcorper quis orci. Vivamus at erat tincidunt, finibus sem in, porta nunc. Quisque tempor, ex a hendrerit aliquam, purus felis aliquam lorem, at aliquam nibh nulla et ex. Nullam vitae quam vel enim faucibus commodo ac nec nunc.
 
 Phasellus tempor vulputate augue. Aenean dolor leo, aliquam ut dignissim non, feugiat nec purus. Fusce convallis augue in leo fringilla, et iaculis tellus ultricies. Aliquam vel eleifend risus, in iaculis ex. Proin convallis euismod diam. Morbi sodales gravida dolor, eu dignissim libero accumsan rutrum. Mauris rutrum auctor est. Vivamus ut purus sapien. Nam venenatis porta iaculis. Nunc tempus ut dui vitae posuere. Aliquam luctus quam dui, eu fermentum orci elementum sed. Fusce et faucibus sapien, nec tempor lorem. Pellentesque tristique enim nisl, et viverra massa feugiat sit amet. Phasellus ullamcorper sem vitae lobortis porta.
